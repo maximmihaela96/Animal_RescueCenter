@@ -33,3 +33,4 @@ Console.WriteLine("************");
 //Saknar objecter animalManager.SeedData();
 AnimalManager animalMeneger2 = new();
 animalMeneger2.PrintAllAnimals();
+animalMeneger2.DetermineAction();
